@@ -7,7 +7,7 @@ Designed with a focus on **clean UI, smooth animations, and interactive user exp
 
 ## 🌐 Live Demo
 
-🔗 https://cozy-crisp-b269de.netlify.app/
+🔗 https://deepak04portfolio.netlify.app
 
 ---
 
@@ -119,7 +119,14 @@ Open index.html
 
 ## 📸 Screenshots
 
-*(Add screenshots here for better impact)*
+### 🏠 Home Page
+![Home](./images/home.png)
+
+### 💼 Projects Section
+![Projects](./images/project.png)
+
+### 📩 Contact Section
+![Contact](./images/contact.png)
 
 ---
 
